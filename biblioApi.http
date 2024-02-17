@@ -1,0 +1,6 @@
+@biblioApi_HostAddress = http://localhost:5037
+
+GET {{biblioApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
